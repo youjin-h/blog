@@ -1,6 +1,6 @@
 title: Youjin Hwang
 url: "https://ankitsultana.com"
-baseurl: "/youjin-h"
+baseurl: "/"
 
 author:
   name: Youjin Hwang
@@ -28,7 +28,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/youjin-h/"
+   link: "/"
  - name: "Activity"
    link: "activity"
  - name: "Highlight"
