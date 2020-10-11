@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+<div class="wrapper">
+  {% include nav.html %}
+  <div style="clear:both"></div>
+  <hr>
+  <div class="container">
+      <div class="home py-4 py-md-5">
+        <div class="row">
+          {% for post in site.posts reversed %}
+          <div class="col-12 col-md-6 col-lg-4">
+              <div class="card">
+                <div class="image">
+                  {% if post.img %}
+                  <img height="220" src="{{site.baseurl}}/img/{{post.img}}" alt="{{post.title}}">
+                  {% endif %}
+                  <div class="card-body">
+                    <h3 class="card-title">{{ post.title }}</h3>
+                  </div>
+                </div>
+              </div>
+          </div>
+          {% endfor %}
+      </div>
+  </div>
+  </div>
+</div>
+</body>
+<footer>
+</footer>

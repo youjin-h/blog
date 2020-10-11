@@ -1,0 +1,37 @@
+title: Youjin Hwang
+url: "https://ankitsultana.com"
+baseurl: "/youjin-h"
+
+author:
+  name: Youjin Hwang
+  email: youjin.h@snu.ac.kr
+
+social:
+  - name: email
+    link: mailto:youjin.h@snu.ac.kr
+  - name: facebook
+    link: http://facebook.com/youjin1990
+  - name: linkedin
+    link: https://www.linkedin.com/in/youjin-hwang-3747b9135
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "© 2020 Youjin Hwang"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/youjin-h/"
+ - name: "Activity"
+   link: "activity"
+ - name: "Highlight"
+   link: "highlight"
+
+

@@ -1,0 +1,12 @@
+{% for follow in site.social %}
+<span class="wrap-link">
+            {% assign social_icon_path = "/img/social/" | append: follow.name | downcase | append: ".png" | absolute_url %}
+            <a href="{{ follow.link }}" style="text-decoration:none" target="_blank">
+                <img
+                        src="{{ social_icon_path }}"
+                        alt="{{ follow.name | downcase }}"
+                        class="social-link"
+                />
+            </a>
+          </span>
+{% endfor %}
