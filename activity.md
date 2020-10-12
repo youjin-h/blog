@@ -8,7 +8,7 @@ The followings are lists of lectures and talks I made in recent days
 📍 16 October 2020, Lecture @ Jowon High School, "AI-powered Social Robots"<br>
 📍 27 August 2020, Naver Techtalk (virtual), "Designing Persona for Conversational AI" invited by Sung Kim<br>
 📍 25 June 2020, SSK symposium, "Exploring Digital Phenotypes of Abnormal Behavior Patterns in Online Community via Topic Modeling" invided by <a href = "https://devcms.yonsei.ac.kr/socialomicsen/index.do" target="_blank">Socialomics center at Yonsei Univ</a><br>
-📍 21 May 2020, Lecture @ <a href = "http://www.ewha.ac.kr/ewha/index.do" target="_blank">Ewha Woman's Univ</a>., "User-Centered Approaches for Problem Solving in the Food Industry" invited by Prof.Oran kwon <br>
+📍 21 May 2020, Lecture @ <a href = "http://www.ewha.ac.kr/ewha/index.do" target="_blank">Ewha Woman's Univ</a>., "User-Centered Approaches for Problem Solving in the Food Industry" invited by Prof.Oran Kwon <br>
 📍 11 April 2020, Talk @ Persuasive Wellbeing Technology Lab, <a href = "https://www.stanford.edu/" target="_blank">Stanford Univ</a>. (virtual), "Recent Works on Conversational AI" invited by Pablo Paredes<br>
 📍 29 October 2019, Lecture @ <a href = "https://en.snu.ac.kr/index.html" target="_blank">Seoul National Univ</a>, "Research Ethics and IRB"<br>
 📍 22-24 October 2019, Workshop @ <a href = "https://www.nl.go.kr/" target="_blank">National Library of Korea</a>, "Applying Design Thinking Method for Public Libarary Innovation" <br> 
