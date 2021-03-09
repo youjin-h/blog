@@ -7,7 +7,7 @@ Hi✋🏻 I am Youjin Hwang Ph.D candidate at hci+d lab., <a href = "https://en.
 
 
 ## Research Interest
-👩🏻‍💻 Human-Computer Interaction
+👩🏻‍💻 Human-AI Interaction
 <br>
 🤖 Conversational AI 
 <br>
@@ -15,39 +15,47 @@ Hi✋🏻 I am Youjin Hwang Ph.D candidate at hci+d lab., <a href = "https://en.
 
 ## Recent Publications
 
-1. Exploring Abnormal Behavior Patterns of Online Users With Emotional Eating Behavior: Topic Modeling Study.Journal of Medical Internet Research (2020) <a href = "https://www.jmir.org/2020/3/e15700/" target="_blank">Paper</a> 
+1. Leveraging challenges of an algorithm-based symptom checker on user trust through explainable AI. CHI 2021 Workshop on Realizing AI in Healthcare. Challenges Appearing in the Wild (2021) <a href = "http://francisconunes.me/RealizingAIinHealthcareWS/index.html" target="_blank">Paper</a> 
+<br>
+<b>Youjin Hwang</b>, Tae Hwan Kim, Junhan Kim, Joonhwan Lee, Hwajung Hong
+
+2. Design Guidelines of Computer-based Intervention for Computer Vision Syndrome: Focus Group Study and In-the-wild Deployment. Journal of Medical Internet Research (2021) <a href = "" target="_blank">Paper</a> 
+<br>
+<b>Youjin Hwang</b>, Donghoon Shin, Jinsu Eun, Bongwon Suh, Joonhwan Lee
+
+3. Exploring Abnormal Behavior Patterns of Online Users With Emotional Eating Behavior: Topic Modeling Study.Journal of Medical Internet Research (2020) <a href = "https://www.jmir.org/2020/3/e15700/" target="_blank">Paper</a> 
 <br>
 <b>Youjin Hwang</b>, Hyung Jun Kim, Hyung Jin Choi, Joonhwan Lee
 
-2. Linguistic Features to Consider When Applying Persona of the Real Person to the Text-based Agent. ACM Conference on Human-Computer Interaction with Mobile Devices and Services Adjunct (2020) <a href = "https://www.researchgate.net/publication/343136815_Linguistic_Features_to_Consider_When_Applying_Persona_of_the_Real_Person_to_the_Text-based_Agent/comments" target="_blank">Paper</a> 
+4. Linguistic Features to Consider When Applying Persona of the Real Person to the Text-based Agent. ACM Conference on Human-Computer Interaction with Mobile Devices and Services Adjunct (2020) <a href = "https://www.researchgate.net/publication/343136815_Linguistic_Features_to_Consider_When_Applying_Persona_of_the_Real_Person_to_the_Text-based_Agent/comments" target="_blank">Paper</a> 
 <br>
 <b>Youjin Hwang</b>, Seokwoo Song, Donghoon Shin, Joonhwan Lee
 
-3. Applying the Persona of User's Family Member and the Doctor to the Conversational Agents for Healthcare. CHI 2020 Workshop on Conversational Agents for Health and Wellbeing (2020) <a href = "https://www.researchgate.net/profile/Donghoon_Shin13/publication/339787859_Applying_the_Persona_of_User's_Family_Member_and_the_Doctor_to_the_Conversational_Agents_for_Healthcare/links/5e65f6ac4585153fb3ce1228/Applying-the-Persona-of-Users-Family-Member-and-the-Doctor-to-the-Conversational-Agents-for-Healthcare.pdf" target="_blank"><a href = "https://www.jmir.org/2020/3/e15700/" target="_blank">Paper</a>
+5. Applying the Persona of User's Family Member and the Doctor to the Conversational Agents for Healthcare. CHI 2020 Workshop on Conversational Agents for Health and Wellbeing (2020) <a href = "https://www.researchgate.net/profile/Donghoon_Shin13/publication/339787859_Applying_the_Persona_of_User's_Family_Member_and_the_Doctor_to_the_Conversational_Agents_for_Healthcare/links/5e65f6ac4585153fb3ce1228/Applying-the-Persona-of-Users-Family-Member-and-the-Doctor-to-the-Conversational-Agents-for-Healthcare.pdf" target="_blank"><a href = "https://www.jmir.org/2020/3/e15700/" target="_blank">Paper</a>
 <br>
 <b>Youjin Hwang</b>, Donghoon Shin, Sion Baek, Bongwon Suh, Joonhwan Lee
 
-4. Applying Design Thinking Method for Public Libarary Innovation. Proceedings of HCI Korea (2020) <a href = "http://conference.hcikorea.org/hcik2020/community/news_list.asp" target="_blank">Paper</a> 
+6. Applying Design Thinking Method for Public Libarary Innovation. Proceedings of HCI Korea (2020) <a href = "http://conference.hcikorea.org/hcik2020/community/news_list.asp" target="_blank">Paper</a> 
 <br>
 <b>Youjin Hwang</b>, Youngjin Kwon, Jieun Lee, Sori Joo, Joonhwan Lee
 
-5. Chatbot Design for Users with Metabolic Syndrome and Heuristic Evaluation. The Korean society for biotechnology and bioengineering (2019) <a href = "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09222469" target="_blank">Paper</a> 
+7. Chatbot Design for Users with Metabolic Syndrome and Heuristic Evaluation. The Korean society for biotechnology and bioengineering (2019) <a href = "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09222469" target="_blank">Paper</a> 
 <br>
 Hyo Yi Choi, Jun Woo Lee, Ju Ha Baek, Ji Young Ko, <b>Youjin Hwang</b>(corresponding)
 
-6. A study on the children’s preference on the persona of conversational agents. Proceedings of HCI Korea (2019) <a href = "http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08008110" target="_blank">Paper</a> 
+8. A study on the children’s preference on the persona of conversational agents. Proceedings of HCI Korea (2019) <a href = "http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08008110" target="_blank">Paper</a> 
 <br>
 Hyuna Park, <b>Youjin Hwang</b>, Joonhwan Lee
 
-7. Predicting Attention and Memory Ability based on the Combination of EEG and HRV data in Children. Brain and Learning (2019) <a href = "http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4050027391476" target="_blank">Paper</a> 
+9. Predicting Attention and Memory Ability based on the Combination of EEG and HRV data in Children. Brain and Learning (2019) <a href = "http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4050027391476" target="_blank">Paper</a> 
 <br>
 Hyeong Seok Jeon, Junhee Lee, June Lee, <b>Youjin Hwang</b>, Siyoung Lee, Hee Yang, Jung Han Yoon , Jun Soo Kwon, Jung Ho Won, Jun Dong Cho, Ki Won Lee
 
-8. Exploring Digital phenotypes of Emotional Eating Behavior Patterns in Reddit. Proceedings of HCI Korea (2019) <a href = "http://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE08008305&mark=0&useDate=&bookmarkCnt=0&ipRange=N&accessgl=Y&language=ko_KR" target="_blank">Paper</a>
+10. Exploring Digital phenotypes of Emotional Eating Behavior Patterns in Reddit. Proceedings of HCI Korea (2019) <a href = "http://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE08008305&mark=0&useDate=&bookmarkCnt=0&ipRange=N&accessgl=Y&language=ko_KR" target="_blank">Paper</a>
 <br> 
 <b>Youjin Hwang</b>, Hyung Jun Kim, Hyung Jin Choi, Joonhwan Lee
 
-9. "Eat What You Want and Be Healthy!" Comfort Food Effects: Human-Food Interaction in View of Celebratory Technology. Proceedings of the 3rd International Workshop on Multisensory Approaches to Human-Food Interaction, ACM (2018) <a href = "https://dl.acm.org/doi/10.1145/3279954.3279958" target="_blank">Paper</a>
+11. "Eat What You Want and Be Healthy!" Comfort Food Effects: Human-Food Interaction in View of Celebratory Technology. Proceedings of the 3rd International Workshop on Multisensory Approaches to Human-Food Interaction, ACM (2018) <a href = "https://dl.acm.org/doi/10.1145/3279954.3279958" target="_blank">Paper</a>
 <br>
 <b>Youjin Hwang</b>, Siyoung Lee, Hyeongseok Jeon, Jung Han Yoon, Kiwon Lee, Joonhwan Lee 
 
@@ -62,8 +70,8 @@ Hyeong Seok Jeon, Junhee Lee, June Lee, <b>Youjin Hwang</b>, Siyoung Lee, Hee Ya
 ## Work Experience
 🏢 Science Commucator at Korea Foundation for the Advancement of Science and Creativity (KOFAC) (2018.05-present) <a href = "https://kofac.re.kr/web/main/index.do" target="_blank">site</a><br> 
 🏢 Researcher at Advanced Institute of Convergence and Technology (2016.08-2017.03) <a href = "https://aict.snu.ac.kr/" target="_blank">site</a><br> <br> 
-🏢 Intern journalist at Chosun Media (2012.09-2013.02) <a href = "https://www.chosun.com/" target="_blank">site</a><br> 
-🏢 Intern journalist at Korea JoongAng Daily (2007.01-03) <a href = "https://koreajoongangdaily.joins.com/" target="_blank">site</a><br> 
+🏢 Associate Instructor at LG electronics (2020.11-present) <a href = "https://www.lge.co.kr/lgekor/main.do" target="_blank">site</a><br> 
+🏢 Researcher at Korean Food and Drug Administration (2012.01-2012.02) <a href = "https://www.mfds.go.kr/vaccine_covid19.jsp" target="_blank">site</a><br> <br> 
 
 ## On Media
 📺 YTN, Practical use of mathematics in Cognitive science <a href = "http://dmb.ytn.co.kr/mytn/program_intro.php?s_mcd=0101&s_hcd=01" target="_blank">video</a><br> 
@@ -71,3 +79,10 @@ Hyeong Seok Jeon, Junhee Lee, June Lee, <b>Youjin Hwang</b>, Siyoung Lee, Hee Ya
 📺 MBN, Design thinking education in rural areas <a href = "https://youtu.be/b0VYOO39IP0" target="_blank">video</a><br> 
 📺 KTV, Food Technology <br>
 📺 JoonAng Daily, Healthy Comfort Food <a href = "https://mnews.joins.com/article/19946964#home" target="_blank">news</a><br> 
+
+## Scholoarship and Award
+🏆 Scholarship for Excellent Doctoral Dissertation, Seoul National University (Dec 2020)
+🏆 Scholarship for Research of Good Will, Seoul National University (Mar 2018)
+🏆 Science Communicator Approved by Ministry of Science and ICT (May 2018)
+🏆 WCU Biomodulation Certificate of Research Excellence, Seoul National University (Jun 2016)
+🏆 Leadership Scholarship, Ewha Women’s University (Oct 2013)
